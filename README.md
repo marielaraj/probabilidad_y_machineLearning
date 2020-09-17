@@ -1,4 +1,4 @@
-#### Notebooks de la materia Probabilidad y Machine Learning (2 CUATRIMESRE 2020)
+#### Notebooks de la materia Probabilidad y Machine Learning (2C2020)
 
 ##### 1. proyecciones_aleatorias
 Notebook donde probe dos tipos de proyecciones aleatorias, Gaussian y Sparce de scikit-learn.
